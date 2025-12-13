@@ -1,10 +1,13 @@
-# linguagem-de-programa-ol
-forumlp1 /atividade 2
-Nome : João Lucas Alves de Sousa
-Curso:Licenciatura em computação
+# Informações do Aluno
 
-O que espero aprender na disciplina:
-espero avançar bastante em linguagens de programação para futuramente focar em seguir essa carreira.
+*Nome Completo:* [JOÃO LUCAS ALVES DE SOUSA]
 
-Meu interesse em programação:
-nunca me imaginei nesta área mas acredito que de certa forma o destino me colocou nela, pretendo terminar o curso para progredir.
+*Curso e Turma:* LICENCIATURA EM COMPUTAÇÃO, 2° PERÍODO
+
+## Expectativas com a Disciplina
+
+[ESPERO CRESCER MUITO NA ÁREA , APRENDER BASTANTE EM MUITAS AULAS E CONTEUDOS DIFERENTES]
+
+## Interesse em Programação
+
+[NUNCA ME IMAGINEI NESTA ÁREA MAS,DE CERTA FORMA O DESTINO ME COLOCOU NELA ENTÃO PRETENDO IR ATE O FINAL.]
