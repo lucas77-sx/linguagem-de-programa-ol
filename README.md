@@ -6,8 +6,11 @@
 
 ## Expectativas com a Disciplina
 
-[ESPERO CRESCER MUITO NA ÁREA , APRENDER BASTANTE EM MUITAS AULAS E CONTEUDOS DIFERENTES]
+
+
+ **Espero crescer na área, aprender novos conteúdos ao longo das aulas e melhorar meus conhecimentos em programação, desenvolvendo a lógica e a prática aos poucos.**
+
 
 ## Interesse em Programação
 
-[NUNCA ME IMAGINEI NESTA ÁREA MAS,DE CERTA FORMA O DESTINO ME COLOCOU NELA ENTÃO PRETENDO IR ATE O FINAL.]
+**Nunca me imaginei atuando nessa área, mas de certa forma o destino me colocou nesse caminho. Por isso, pretendo seguir até o final, aprendendo o máximo possível e me dedicando para evoluir na programação.**
